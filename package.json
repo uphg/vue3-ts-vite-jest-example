@@ -1,6 +1,6 @@
 {
-  "name": "vue3-example",
-  "version": "0.0.0",
+  "name": "vue3-ts-vite-jest-example",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
